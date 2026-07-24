@@ -11,3 +11,6 @@ A collection of intermediate-level C programming problems and solutions to stren
 ### Conditional Statements:
 - ATM Cash Withdraw
 - Date Validator
+- Smart Login System
+- Passport Eligibility Checker
+- Parking Fee Calculator and more...
