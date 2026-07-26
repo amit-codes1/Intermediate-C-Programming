@@ -5,6 +5,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 ## Topics Covered:
 
 - Conditional Statements
+- Loops
 
 ## Programs:
 
@@ -14,3 +15,11 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Smart Login System
 - Passport Eligibility Checker
 - Parking Fee Calculator and more...
+
+### Loops:
+- Reverse a Number
+- Count Even and Odd Digits
+- Print Prime Numbers in a Given Range
+- Find the Largest Prime Number in a Range
+- Sum of Factorial
+- Print Floyd's Triangle and more...
