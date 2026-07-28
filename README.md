@@ -29,3 +29,6 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Count Digits Using Function
 - Check Armstrong Number Using Function
 - Find GCD Using Function
+- Count Frequency of a Digit
+- Convert Seconds into Hours, Minutes and Seconds
+- Check if Two Numbers are Co-prime and more...
