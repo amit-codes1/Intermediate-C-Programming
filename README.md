@@ -6,6 +6,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 
 - Conditional Statements
 - Loops
+- Function
 
 ## Programs:
 
@@ -23,3 +24,8 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Find the Largest Prime Number in a Range
 - Sum of Factorial
 - Print Floyd's Triangle and more...
+
+### Function:
+- Count Digits Using Function
+- Check Armstrong Number Using Function
+- Find GCD Using Function
