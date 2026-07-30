@@ -38,3 +38,5 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Find the Largest Element
 - Reverse an Array
 - Find the Second Largest Element
+- Search for an Element
+- Merge Two Arrays into a Third Array and more...

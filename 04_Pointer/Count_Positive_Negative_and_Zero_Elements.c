@@ -13,6 +13,12 @@ int main()
 
     arr = (int *)malloc(n * sizeof(int));
 
+    if (arr==NULL)
+    {
+        printf("Memory Allocation Failed!!");
+        return 1;
+    }
+
     for (int i = 0; i < n; i++)
     {
         printf("Enter Number: ");
