@@ -37,4 +37,4 @@ A collection of intermediate-level C programming problems and solutions to stren
 ### Pointer:
 - Find the Largest Element
 - Reverse an Array
-
+- Find the Second Largest Element
