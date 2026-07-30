@@ -7,6 +7,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Conditional Statements
 - Loops
 - Function
+- Pointer
 
 ## Programs:
 
@@ -32,3 +33,8 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Count Frequency of a Digit
 - Convert Seconds into Hours, Minutes and Seconds
 - Check if Two Numbers are Co-prime and more...
+
+### Pointer:
+- Find the Largest Element
+- Reverse an Array
+
