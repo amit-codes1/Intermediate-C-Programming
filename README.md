@@ -44,3 +44,4 @@ A collection of intermediate-level C programming problems and solutions to stren
 ### Arrays:
 - Left Rotate an Array by One Position
 - Move All Zeros to the End
+- Find the Missing Number from 1 to N 

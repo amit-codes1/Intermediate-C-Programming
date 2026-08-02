@@ -32,7 +32,7 @@ int main()
 
     /*User Need to Enter Elements CAREFULLY cause it's a program to find only one missing element.
 
-    If more than 1 element is missing the Program will give an UNDEFINED BEHAVIOUR.
+    If more than 1 element is missing then the Program will give an UNDEFINED BEHAVIOUR.
     */
 
     for (int i = 0; i < num; i++)
@@ -40,6 +40,19 @@ int main()
         printf("Enter Number: ");
         scanf("%d", &arr[i]);
     }
+
+    int index = 0;
+
+    for (int i = 0; i < num; i++)
+    {
+        if ((i + 1) != arr[i])
+        {
+            index = i + 1;
+            break;
+        }
+    }
+
+    printf("Missing Number from 1 to %d is %d", num, index);
 
     return 0;
 }
