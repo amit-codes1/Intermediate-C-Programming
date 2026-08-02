@@ -40,3 +40,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Find the Second Largest Element
 - Search for an Element
 - Merge Two Arrays into a Third Array and more...
+
+### Arrays:
+- Left Rotate an Array by One Position
+- Move All Zeros to the End
