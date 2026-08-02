@@ -54,5 +54,9 @@ int main()
 
     printf("Missing Number from 1 to %d is %d", num, index);
 
+    free(arr);
+
+    arr = NULL;
+
     return 0;
 }
