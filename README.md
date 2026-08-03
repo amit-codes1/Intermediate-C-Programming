@@ -45,4 +45,5 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Left Rotate an Array by One Position
 - Move All Zeros to the End
 - Find the Missing Number from 1 to N 
-- Merge Two Sorted Arrays into a Third Sorted Array and more...
+- Merge Two Sorted Arrays into a Third Sorted Array 
+- Check Whether an Array is Sorted, Rotated, or Unsorted and more...
