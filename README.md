@@ -8,6 +8,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Loops
 - Function
 - Pointer
+- Arrays
 
 ## Programs:
 
