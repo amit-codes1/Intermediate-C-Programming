@@ -23,7 +23,7 @@ int main()
 
     int n;
 
-    printf("Enter Number of Elements to be Stored in the First Array: ");
+    printf("Enter Number of Elements to be Stored in the Array: ");
     scanf("%d", &n);
 
     if (n <= 1)

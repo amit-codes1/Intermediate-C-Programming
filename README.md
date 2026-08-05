@@ -54,3 +54,5 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Find the Middle Element Using Pointer Arithmetic
 - Swap the First Half and Second Half of an Array
 - Find the Largest Difference Between Adjacent Elements
+- Merge Two Sorted Arrays Using Only Pointer Arithmetic
+- Find All Duplicate Elements Using Pointer Arithmetic and more...
