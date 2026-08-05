@@ -9,6 +9,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Function
 - Pointer
 - Arrays
+- Pointer Arithmetic
 
 ## Programs:
 
@@ -48,3 +49,8 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Find the Missing Number from 1 to N 
 - Merge Two Sorted Arrays into a Third Sorted Array 
 - Check Whether an Array is Sorted, Rotated, or Unsorted and more...
+
+### Pointer Arithmetic:
+- Find the Middle Element Using Pointer Arithmetic
+- Swap the First Half and Second Half of an Array
+- Find the Largest Difference Between Adjacent Elements
