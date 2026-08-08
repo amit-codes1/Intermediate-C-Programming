@@ -61,3 +61,4 @@ A collection of intermediate-level C programming problems and solutions to stren
 ### Strings:
 - programming
 - Remove Duplicate Characters
+- Find the Second Most Frequent Character and more...
