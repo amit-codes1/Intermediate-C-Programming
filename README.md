@@ -10,6 +10,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Pointer
 - Arrays
 - Pointer Arithmetic
+- Strings
 
 ## Programs:
 
@@ -56,3 +57,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Find the Largest Difference Between Adjacent Elements
 - Merge Two Sorted Arrays Using Only Pointer Arithmetic
 - Find All Duplicate Elements Using Pointer Arithmetic and more...
+
+### Strings:
+- programming
+- Remove Duplicate Characters
