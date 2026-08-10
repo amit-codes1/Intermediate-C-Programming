@@ -61,4 +61,6 @@ A collection of intermediate-level C programming problems and solutions to stren
 ### Strings:
 - programming
 - Remove Duplicate Characters
-- Find the Second Most Frequent Character and more...
+- Find the Second Most Frequent Character 
+- Check Whether Two Strings Are Anagrams
+- Compress a String and more...
