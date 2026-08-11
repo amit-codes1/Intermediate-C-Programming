@@ -63,4 +63,6 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Remove Duplicate Characters
 - Find the Second Most Frequent Character 
 - Check Whether Two Strings Are Anagrams
-- Compress a String and more...
+- Compress a String 
+- Reverse Each Word of a String
+- Find the Longest Word in a String and more...
