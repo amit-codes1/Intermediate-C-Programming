@@ -69,3 +69,6 @@ A collection of intermediate-level C programming problems and solutions to stren
 
 ### Structures:
 - Nested Structures
+- Employee Records
+- Struct Sorting
+- Array of Struct
