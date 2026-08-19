@@ -11,6 +11,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Arrays
 - Pointer Arithmetic
 - Strings
+- Structures
 
 ## Programs:
 
@@ -59,10 +60,12 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Find All Duplicate Elements Using Pointer Arithmetic and more...
 
 ### Strings:
-- programming
 - Remove Duplicate Characters
 - Find the Second Most Frequent Character 
 - Check Whether Two Strings Are Anagrams
 - Compress a String 
 - Reverse Each Word of a String
 - Find the Longest Word in a String and more...
+
+### Structures:
+- Nested Structures
