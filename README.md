@@ -12,6 +12,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Pointer Arithmetic
 - Strings
 - Structures
+- Files
 
 ## Programs:
 
@@ -72,3 +73,8 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Employee Records
 - Struct Sorting
 - Array of Struct
+
+### Files:
+- Count Char, Words and Lines
+- Search for a word in a file
+- Store and Read Structure Data_from a Binary File and more...

@@ -5,7 +5,7 @@ int main()
 {
     FILE *ptr;
 
-    ptr = fopen("data.txt", "w");
+    ptr = fopen("data.txt", "a");
 
     if (ptr == NULL)
     {
