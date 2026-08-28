@@ -13,6 +13,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Strings
 - Structures
 - Files
+- D M A
 
 ## Programs:
 
@@ -78,3 +79,7 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Count Char, Words and Lines
 - Search for a word in a file
 - Store and Read Structure Data_from a Binary File and more...
+
+### D M A:
+- Create and Display a Dynamic 2D Array
+- Calculate the Sum and more...
