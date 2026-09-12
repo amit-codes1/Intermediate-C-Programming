@@ -84,4 +84,5 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Create and Display a Dynamic 2D Array
 - Calculate the Sum 
 - Dynamic Matrix Transpose
-- Find the Row With the Highest Sum and more...
+- Find the Row With the Highest Sum 
+- Find the Largest Element in Each Row and more...
