@@ -82,4 +82,6 @@ A collection of intermediate-level C programming problems and solutions to stren
 
 ### D M A:
 - Create and Display a Dynamic 2D Array
-- Calculate the Sum and more...
+- Calculate the Sum 
+- Dynamic Matrix Transpose
+- Find the Row With the Highest Sum and more...
