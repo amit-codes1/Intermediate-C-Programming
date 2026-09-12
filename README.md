@@ -85,4 +85,5 @@ A collection of intermediate-level C programming problems and solutions to stren
 - Calculate the Sum 
 - Dynamic Matrix Transpose
 - Find the Row With the Highest Sum 
-- Find the Largest Element in Each Row and more...
+- Find the Largest Element in Each Row 
+- Dynamically remove a Row and more...
